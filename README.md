@@ -76,23 +76,28 @@ http://127.0.0.1:8000/
 Логины и пароли для авторизации:
 
 Админ
+```bash
 login: admin
 password: mysilantadmin6789
-
+```
 Менеджер
+```bash
 login: managersilant
 password: mysilantadmin6789
-
+```
 Клиенты
+```bash
 login: complectpost
 login: fpk21
 login: iptrudnikovsv
 login: mhc77
 login: rmk
 password: sercomp6789
-
+```
 Сервисная организация
+```bash
 login: promtech
 login: silant
 login: oofns
 password: sercomp6789
+```
