@@ -53,15 +53,11 @@ venv\scripts\activate
 cd SilantFinal
 pip install -r requirements.txt
 ```
-5. Затем установите требуемые зависимости
-```bash
-python manage.py migrate --fake-initial
-```
-6. Запустите сервер.
+5. Запустите сервер.
 ```bash
 py manage.py runserver
 ```
-7. Переходим на главную страницу системы по адресу
+6. Переходим на главную страницу системы по адресу
 ```bash
 http://127.0.0.1:8000
 ```
