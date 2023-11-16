@@ -7,7 +7,7 @@
     <h2>Администратор</h2>
 {% elif user.groups.first.name == "Менеджер" %}
     <h2>Менеджер {{user.first_name}}</h2>
-{% elif user.groups.first.name == "Сервисная организация" %}
+{% elif user.groups.first.name == "Сервисная компания" %}
     <h2>Сервисная организация {{user.userprofile.service_company}}</h2>
 {% else %}
     <h2>Клиент {{user.first_name}} </h2>
