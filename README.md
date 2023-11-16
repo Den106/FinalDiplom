@@ -88,7 +88,7 @@ login: fpk21
 login: iptrudnikovsv
 login: mhc77
 login: rmk
-password: sercomp6789
+password: mysilant789
 ```
 Сервисная организация
 ```bash
